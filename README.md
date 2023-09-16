@@ -19,7 +19,7 @@ I will use datasets collected from the Maze2D environments. The datasets is coll
 For more detail, please check https://github.com/clvrai/spirl
 
 
-Since the size of the dataset is too big to be uploaded in github, I will upload the google drive links to get access to the dataset :
+Since the size of the dataset is too big to be uploaded in github, I will upload google drive links to get access to the datasets :
 
 train : https://drive.google.com/uc?id=15fjt8QMC6xMpqTMftLF1RCWAe3jvklGb
         https://drive.google.com/uc?id=1aTz94EJYPU5A-h-EV5CxCIfd8io2e-EH
@@ -27,3 +27,6 @@ train : https://drive.google.com/uc?id=15fjt8QMC6xMpqTMftLF1RCWAe3jvklGb
 validation : https://drive.google.com/uc?id=1EiahoGgGiS7ol-Xx-DHIiEroZSeG9jEr
 
 test : https://drive.google.com/uc?id=1y5VafZN_95tHStEHKsoQvLrvw2y0pmRQ
+
+
+Note the label dataset will be created after the unsupervised model has been trained.
