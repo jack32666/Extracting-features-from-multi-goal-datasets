@@ -1,0 +1,6 @@
+train : https://drive.google.com/uc?id=15fjt8QMC6xMpqTMftLF1RCWAe3jvklGb 
+        https://drive.google.com/uc?id=1aTz94EJYPU5A-h-EV5CxCIfd8io2e-EH
+
+validation : https://drive.google.com/uc?id=1EiahoGgGiS7ol-Xx-DHIiEroZSeG9jEr
+
+test : https://drive.google.com/uc?id=1y5VafZN_95tHStEHKsoQvLrvw2y0pmRQ
