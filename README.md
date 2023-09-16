@@ -1,8 +1,6 @@
-# Extracting-features-from-multi-goal-datasets
+# Project title : Extracting-features-from-multi-goal-datasets
 
-## I. Project title : Extracting-features-from-multi-goal-datasets
-
-## II. Project introduction : 
+## I. Project introduction : 
 
 People make generalization based on their diverse experiences in a specific environment. 
 
@@ -15,7 +13,7 @@ The unsupervised model will be used to generate ground truth labels, while the s
 The objective is to make both the supervised model and unsupervised model succeed in learning and extracting meaningful features from the multi-goal datasets.
 
 
-## III. Dataset description (need details) : 
+## II. Dataset description (need details) : 
 
 I will use datasets collected from the Maze2D environments. The datasets is collected by a planner-based policy, and the overall dataset consists of 85000 trajectories.
 For more detail, please check https://github.com/clvrai/spirl
