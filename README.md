@@ -15,7 +15,7 @@ The objective is to make both the supervised model and unsupervised model succee
 
 ## II. Dataset description (need details) : 
 
-I will use datasets collected from the Maze2D environments. The datasets is collected by a planner-based policy, and the overall dataset consists of 85000 trajectories.
+I will use datasets collected from the Maze2D environments. The datasets is collected by a planner-based policy, and the overall dataset consists of 85000 trajectories collected from diverse goal settings.
 For more detail, please check https://github.com/clvrai/spirl
 
 
