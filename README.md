@@ -38,6 +38,8 @@ I will provide a baseline model that only uses state information to predict the 
 
 This model shows whether states can extract useful features from the dataset by the guidance of state-action novelty.
 
+The model is provided in the following link :
+https://github.com/jack32666/Extracting-features-from-multi-goal-datasets/blob/main/maze_state_baseline_model.ipynb
 
 
 
