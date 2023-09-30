@@ -22,3 +22,12 @@ For more detail, please check https://github.com/clvrai/spirl
 Since the size of the dataset is too big to be uploaded in github, I will upload google drive links to get access to the datasets :
 
 https://drive.google.com/drive/folders/1H4qVcHJKD7voq2FGyXlE_wi8T7Qutpf0?usp=sharing
+
+
+Explanatory variables : conc_images(local top-down view of a maze at timestep t), next_conc_images(local top-down view of a maze at timestep t+1), actions(action at timestep t)
+
+Response variable : ylabel(the outcome of an unsupervised model)
+
+
+
+Note the test dataset does not contain correct output (ground truth) values. 
