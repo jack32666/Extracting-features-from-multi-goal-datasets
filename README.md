@@ -21,12 +21,4 @@ For more detail, please check https://github.com/clvrai/spirl
 
 Since the size of the dataset is too big to be uploaded in github, I will upload google drive links to get access to the datasets :
 
-train : https://drive.google.com/uc?id=15fjt8QMC6xMpqTMftLF1RCWAe3jvklGb
-        https://drive.google.com/uc?id=1aTz94EJYPU5A-h-EV5CxCIfd8io2e-EH
-        
-validation : https://drive.google.com/uc?id=1EiahoGgGiS7ol-Xx-DHIiEroZSeG9jEr
-
-test : https://drive.google.com/uc?id=1y5VafZN_95tHStEHKsoQvLrvw2y0pmRQ
-
-
-Note the label dataset will be created after the unsupervised model has been trained.
+https://drive.google.com/drive/folders/1H4qVcHJKD7voq2FGyXlE_wi8T7Qutpf0?usp=sharing
