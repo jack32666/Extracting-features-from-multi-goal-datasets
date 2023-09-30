@@ -36,6 +36,8 @@ Note the test dataset does not contain correct output (ground truth) values.
 
 I will provide a baseline model that only uses state information to predict the state-action novelty.
 
+This model shows whether states can extract useful features from the dataset by the guidance of state-action novelty.
+
 
 
 
