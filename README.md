@@ -1,4 +1,4 @@
-# Project title : Extracting-features-from-multi-goal-datasets
+# Project title : Extracting-features-from-multi-goal-datasets through knowledge distillation
 
 ## I. Project introduction : 
 
@@ -19,15 +19,23 @@ I will use datasets collected from the Maze2D environments. The datasets is coll
 For more detail, please check https://github.com/clvrai/spirl
 
 
-Since the size of the dataset is too big to be uploaded in github, I will upload google drive links to get access to the datasets :
+Since the size of the dataset is too big to be uploaded in github, I will upload a google drive link to get access to the datasets :
 
 https://drive.google.com/drive/folders/1H4qVcHJKD7voq2FGyXlE_wi8T7Qutpf0?usp=sharing
 
 
 Explanatory variables : conc_images(local top-down view of a maze at timestep t), next_conc_images(local top-down view of a maze at timestep t+1), actions(action at timestep t)
 
-Response variable : ylabel(the outcome of an unsupervised model)
-
+Response variable : ylabel(corresponding state-action novelty)
 
 
 Note the test dataset does not contain correct output (ground truth) values. 
+
+
+## III. A baseline model : 
+
+I will provide a baseline model that only uses state information to predict the state-action novelty.
+
+
+
+
