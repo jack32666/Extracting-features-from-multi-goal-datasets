@@ -1,4 +1,4 @@
-# Project title : Extracting-features-from-multi-goal-datasets through knowledge distillation
+# Project title : Extracting-features-from-multi-goal-datasets
 
 ## I. Project introduction : 
 
