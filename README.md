@@ -1,6 +1,6 @@
 # Project title : Extracting-features-from-multi-goal-datasets
 
-## I. Project introduction : 
+## I. Project introduction
 
 People make generalization based on their diverse experiences in a specific environment. 
 
@@ -13,7 +13,7 @@ The unsupervised model will be used to generate ground truth labels, while the s
 The objective is to make both the supervised model and unsupervised model succeed in learning and extracting meaningful features from the multi-goal datasets.
 
 
-## II. Dataset description : 
+## II. Dataset description
 
 I will use datasets collected from the Maze2D environments. The datasets is collected by a planner-based policy, and the overall dataset consists of 85000 trajectories collected from diverse goal settings.
 For more detail, please check https://github.com/clvrai/spirl
@@ -32,7 +32,7 @@ Response variable : ylabel(corresponding state-action novelty)
 Note the test dataset does not contain correct output (ground truth) values. 
 
 
-## III. A baseline model : 
+## III. A baseline model
 
 I will provide a baseline model that only uses state information to predict the state-action novelty.
 
