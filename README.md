@@ -42,7 +42,11 @@ The model is provided in the following link :
 https://github.com/jack32666/Extracting-features-from-multi-goal-datasets/blob/main/maze_state_baseline_model.ipynb
 
 
+
 ## IV. Project proposal presentation video : 
 
 https://drive.google.com/file/d/1AEf6J1BetDuv5eMzkKrzqsH3omult6QE/view?usp=sharing
 
+## V. Contact information for Q&A : 
+
+jack326@naver.com
